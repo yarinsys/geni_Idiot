@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Geni_Idiot_ConsoleApp
 {
-    internal class Timer
+    internal class Rules
     {
     }
 }
