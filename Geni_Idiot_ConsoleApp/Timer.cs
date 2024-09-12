@@ -8,5 +8,6 @@ namespace Geni_Idiot_ConsoleApp
 {
     internal class Timer
     {
+       /// правила для слабаков. Попался
     }
 }
